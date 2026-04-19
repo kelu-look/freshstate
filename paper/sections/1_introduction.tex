@@ -1,0 +1,67 @@
+\section{Introduction}
+\label{sec:intro}
+
+A user searching for the monthly rent of a specific apartment, the latest release
+of a software package, or the current price of a product expects the search result
+to reflect what the web page says \emph{today}. In practice, search engine indices
+are built from crawls that may be days or weeks old~\citep{cho2003estimating}, and
+the underlying pages continue to change between crawls. The result is a systematic
+mismatch: the answer embedded in a search snippet or a retrieval-augmented generation
+(RAG) response may be factually correct as of the last crawl but wrong at query time.
+
+This \emph{temporal staleness} problem is qualitatively familiar---practitioners
+routinely observe that search results lag behind price movements, software releases,
+and real-estate inventory---but it resists quantitative study for a simple reason:
+there is no standard benchmark. Without ground-truth change labels, it is impossible
+to measure recall at fresh-versus-stale granularity, to compare retrieval systems on
+time-sensitive queries, or to train models that detect whether a cached result is
+still accurate.
+
+We introduce \textbf{FreshState}, a benchmark construction pipeline designed to
+fill this gap. FreshState operates on two levels. At the \emph{data collection}
+level, it deploys a prospective monitor that fetches candidate URLs daily, extracts
+answer-bearing values (prices, version strings) via domain-specific extractors, and
+records change events when those values shift between consecutive snapshots. At the
+\emph{evaluation} level, it pairs each change event with a stale search snippet and
+measures whether language models echo the outdated value---a controlled
+\emph{snippet-swap} experiment that quantifies the downstream impact of index lag.
+
+\paragraph{Contributions.} We make the following contributions:
+
+\begin{enumerate}
+  \item \textbf{FreshState pipeline.} A modular, domain-extensible pipeline for
+        constructing temporally-grounded web staleness benchmarks, covering candidate
+        collection, baseline snapshot, daily monitoring, and change-event extraction
+        (\Cref{sec:method}).
+
+  \item \textbf{Domain-specific extractors.} A library of extractors for prices,
+        availability signals, version strings, and GitHub release tags, with a shared
+        confidence-scoring interface that enables automated quality filtering.
+
+  \item \textbf{Large-scale prospective deployment.} Results from a 14-day deployment
+        monitoring 1,628 URLs across two high-churn domains (rental listings and
+        open-source software), producing 474 change-event seeds
+        (\Cref{sec:experiments}).
+
+  \item \textbf{Snippet-swap evaluation.} A controlled experiment showing that
+        language models echo stale values at high rates when given outdated search
+        context, demonstrating that index lag directly degrades answer quality in
+        RAG pipelines (\Cref{sec:snippet_swap}).
+\end{enumerate}
+
+\paragraph{Findings.} Software releases change at a rate of ${\sim}17\%$ of tracked
+repositories per day, producing 146 change events in the first 5 days alone.
+Apartment listings exhibit lower value-change rates (${\sim}1\%$/day) but extremely
+high expiration rates: 23\% of URLs return HTTP~410 (Gone) within 24 hours of
+baseline collection, meaning any search engine that indexed them even one day earlier
+would serve a dead link. In the snippet-swap experiment, stale context causes models
+to reproduce the outdated value in 100\% of cases, confirming that
+temporal staleness is not merely an index-freshness problem but a direct source of
+factual error in language model outputs.
+
+The rest of this paper is organized as follows. \Cref{sec:related} surveys temporal
+IR, web archiving, and fact-verification work. \Cref{sec:method} formalizes the
+problem and describes the FreshState pipeline. \Cref{sec:experiments} presents
+dataset construction experiments and change-rate statistics. \Cref{sec:snippet_swap}
+describes the snippet-swap evaluation. \Cref{sec:conclusion} discusses limitations
+and future directions.

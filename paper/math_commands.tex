@@ -1,0 +1,20 @@
+% math_commands.tex — FreshState paper notation
+
+\newcommand{\R}{\mathbb{R}}
+\newcommand{\E}{\mathbb{E}}
+\DeclareMathOperator*{\argmin}{arg\,min}
+\DeclareMathOperator*{\argmax}{arg\,max}
+
+% FreshState-specific notation
+\newcommand{\URL}{\mathcal{U}}          % URL set
+\newcommand{\val}[1]{v(#1)}             % value extracted from page u at time t: v(u,t)
+\newcommand{\snap}[2]{s(#1,\,#2)}       % snapshot of URL u at time t
+\newcommand{\change}{\Delta}            % change event
+\newcommand{\stale}{\sigma}             % staleness label
+\newcommand{\conf}{\kappa}              % extractor confidence
+\newcommand{\lag}{\tau}                 % temporal lag
+\newcommand{\tbase}{t_0}               % baseline timestamp
+\newcommand{\tcheck}{t_k}              % k-th check timestamp
+
+% Placeholder for values to be filled after experiment completes
+\newcommand{\placeholder}[1]{{\color{red}\textbf{[#1]}}}

@@ -1,0 +1,2 @@
+{"example_id": "apt_001", "official_url": "https://example-apartments.com/units/1br-oak-ave", "query": "What is the current monthly rent for the 1BR unit at 340 Oak Ave?", "change_type": "price_change", "T_before": "20260101", "preferred_aggregators": ["zillow.com", "trulia.com"]}
+{"example_id": "apt_002", "official_url": "https://example-realty.com/listing/studio-main-st", "query": "Is the studio apartment at 150 Main Street still available?", "change_type": "availability_change", "T_before": "20260115", "preferred_aggregators": ["apartments.com"]}

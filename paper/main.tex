@@ -1,0 +1,69 @@
+\documentclass{article}
+\usepackage{iclr2026_conference,times}
+
+% Math
+\usepackage{amsmath,amssymb,amsfonts,amsthm,mathtools}
+
+% Typography
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage{hyperref}
+\usepackage{url}
+\usepackage{booktabs}
+\usepackage{nicefrac}
+\usepackage{microtype}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{multirow}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+
+% cleveref must be loaded AFTER hyperref
+\usepackage[capitalize,noabbrev]{cleveref}
+
+% Theorems
+\theoremstyle{plain}
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{proposition}[theorem]{Proposition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\theoremstyle{definition}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{assumption}[theorem]{Assumption}
+\theoremstyle{remark}
+\newtheorem{remark}[theorem]{Remark}
+
+\crefname{assumption}{Assumption}{Assumptions}
+\Crefname{assumption}{Assumption}{Assumptions}
+
+\input{math_commands}
+
+% \iclrfinalcopy  % Uncomment for camera-ready
+
+\title{FreshState: A Prospective Benchmark for\\Detecting Stale Information in Web Search}
+
+\author{Anonymous Authors}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+\input{sections/0_abstract}
+\end{abstract}
+
+\input{sections/1_introduction}
+\input{sections/2_related_work}
+\input{sections/3_method}
+\input{sections/4_experiments}
+\input{sections/5_conclusion}
+
+\bibliography{references}
+\bibliographystyle{iclr2026_conference}
+
+\newpage
+\appendix
+\input{sections/A_appendix}
+
+\end{document}
