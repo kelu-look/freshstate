@@ -1,6 +1,9 @@
 # Secrets
 .env
 
+# Paper (not published)
+paper/
+
 # State files (large, contain scraped data)
 monitor_state_*.json
 

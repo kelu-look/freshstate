@@ -79,20 +79,16 @@ get_candidates.py      Collect candidate URLs (Craigslist, GitHub)
 
 ```
 freshstate/
-├── get_candidates.py       # Candidate URL collection (Craigslist, GitHub, Wikipedia)
+├── get_candidates.py       # Candidate URL collection (Craigslist, GitHub)
 ├── monitor.py              # Daily change monitor
 ├── setup_monitor.py        # One-time setup (CDX-based candidate discovery)
 ├── roll_craigslist.sh      # Daily apartment collection script
 ├── run_experiment.py       # Snippet-swap LLM experiment
 ├── extractors.py           # Price / version / availability extraction from HTML
 ├── wayback_client.py       # Wayback Machine CDX API + live fetch
-├── schema.py               # FreshStateRecord dataclass
-├── label.py                # Auto-labeling (Fresh/Stale/Ambiguous)
-├── snippet_swap.py         # Original 5-condition experiment (Strategy A)
 ├── seeds/                  # Change-event seeds (benchmark artifact)
 │   ├── apartment_monitored_v2.jsonl
 │   └── software_monitored.jsonl
-├── paper/                  # LaTeX source (ICLR 2026 format)
 └── requirements.txt
 ```
 
