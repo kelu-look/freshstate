@@ -91,6 +91,43 @@ def baselines_table():
               f"{fmt(r['macro_f1']):>14}{auc:>14}")
 
 
+def perdomain_llm_verifier():
+    """Per-domain LLM verifier class recalls under the canonical
+    sklearn balanced_accuracy_score (UNSURE->fresh), matching the
+    llm_verifier row of the baselines table. Paper Table 3."""
+    hr("PER-DOMAIN LLM VERIFIER  (Table 3)")
+    path = Path("results/verifier_task1.jsonl")
+    if not path.exists():
+        print("  (results/verifier_task1.jsonl not found)")
+        return
+    rows = [json.loads(l) for l in open(path)]
+
+    def yp(r):
+        if r["pred"] == "stale": return 1
+        if r["pred"] == "fresh": return 0
+        return 0  # UNSURE -> fresh, matching run_baselines.llm_verifier_eval
+
+    def report_one(label, subset):
+        if not subset:
+            return
+        y_true = [1 if r["ground_truth"] == "stale" else 0 for r in subset]
+        y_pred = [yp(r) for r in subset]
+        fresh = [(t, p) for t, p in zip(y_true, y_pred) if t == 0]
+        stale = [(t, p) for t, p in zip(y_true, y_pred) if t == 1]
+        fr = sum(1 for t, p in fresh if p == 0) / len(fresh) * 100 if fresh else 0
+        sr = sum(1 for t, p in stale if p == 1) / len(stale) * 100 if stale else 0
+        # sklearn balanced_accuracy is the mean of per-class recalls
+        bal = (fr + sr) / 2
+        print(f"  {label:<10} N={len(subset):>3}  Fresh rec.={fr:5.1f}%  "
+              f"Stale rec.={sr:5.1f}%  BalAcc={bal:5.1f}")
+
+    print(f"  {'Domain':<10} {'N':>5}  {'Fresh':>13}     {'Stale':>13}     {'BalAcc'}")
+    for d in ["apartment", "software", "pypi"]:
+        report_one(d.capitalize(), [r for r in rows if r["domain"] == d])
+    print("  " + "-" * 60)
+    report_one("All", rows)
+
+
 def ablation_table():
     hr("ABLATION: NAIVE vs AGE-MATCHED  (Table 4)")
     naive = Path("results/baselines_naive.json")
@@ -257,6 +294,7 @@ def main():
     dataset_stats()
     cleanup_reconciliation()
     baselines_table()
+    perdomain_llm_verifier()
     ablation_table()
     snippet_swap()
     validation_table()
