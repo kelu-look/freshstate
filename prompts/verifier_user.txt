@@ -1,0 +1,4 @@
+URL: {url}
+Snippet: {snippet}
+
+Is this snippet likely still accurate today? Answer YES, NO, or UNSURE.

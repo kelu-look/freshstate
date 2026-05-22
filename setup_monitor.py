@@ -248,7 +248,7 @@ def main():
             )
             priced = len(state)
         else:
-            priced = len(json.load(open(state_path))) if Path(state_path).exists() else 0
+            priced = len(json.loads(Path(state_path).read_text())) if Path(state_path).exists() else 0
             print(f"[baseline] skipped — {priced} URLs already in state")
 
         setup_summary.append({

@@ -1,0 +1,14 @@
+FreshState-curated benchmark records, evaluation sets, state and metadata
+files, validation logs, result files, prompt templates, saved model-output
+records included as experimental artifacts, schema documentation, and README
+documentation are licensed under the Creative Commons Attribution 4.0
+International License (CC BY 4.0).
+
+License URL:
+https://creativecommons.org/licenses/by/4.0/
+
+This license applies only to FreshState-curated records, annotations,
+metadata, documentation, prompts, and released experimental-output records.
+It does not assert ownership of or grant additional rights in underlying
+third-party webpages, repositories, registry/platform content, trademarks,
+or third-party dependencies.

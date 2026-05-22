@@ -1,0 +1,8 @@
+Web search result:
+{snippet}
+
+Question: What is the current monthly rent for this listing: {url} ?
+Answer with just the value (e.g., '$2,500/mo' or 'v1.2.3').
+
+# Snippet template (filled at construction time):
+#   "This apartment is listed at {value} per month."

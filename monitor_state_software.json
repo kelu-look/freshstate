@@ -1,0 +1,787 @@
+{
+  "https://github.com/NVIDIA/warp/releases": {
+    "value": "v1.12.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/ChrisBuilds/terminaltexteffects/releases": {
+    "value": "0.14.2 - Easier Easing (bugfix)",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/HKUDS/nanobot/releases": {
+    "value": "v0.1.5.post1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/sublimelsp/LSP/releases": {
+    "value": "4070-2.10.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/dgunning/edgartools/releases": {
+    "value": "v5.30.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/NousResearch/hermes-agent/releases": {
+    "value": "Hermes Agent v0.10.0 (2026.4.16)",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/mealie-recipes/mealie/releases": {
+    "value": "v3.16.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/sktime/sktime/releases": {
+    "value": "v0.40.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/jgravelle/jcodemunch-mcp/releases": {
+    "value": "v1.63.1 \u2014 Hotfix: get_repo_health crash on non-git source_root",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/moj-analytical-services/splink/releases": {
+    "value": "v5.0.0.dev3",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/neuml/txtai/releases": {
+    "value": "v9.7.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/saltstack/salt/releases": {
+    "value": "v3006.23",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/samuelclay/NewsBlur/releases": {
+    "value": "NewsBlur CLI v0.1.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/vllm-project/vllm-omni/releases": {
+    "value": "v0.19.0rc1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/SirVer/ultisnips/releases": {
+    "value": "UltiSnips 3.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/schemathesis/schemathesis/releases": {
+    "value": "Release 4.15.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/Flexget/Flexget/releases": {
+    "value": "v3.19.12",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/pytorch/pytorch/releases": {
+    "value": "PyTorch 2.11.0 Release",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/tmux-python/libtmux/releases": {
+    "value": "v0.55.0 - compatibility features, more logging",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/wemake-services/django-modern-rest/releases": {
+    "value": "Version 0.7.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/tmux-python/tmuxp/releases": {
+    "value": "v1.67.0 - `tmuxp load` progress spinner",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/siliconcompiler/siliconcompiler/releases": {
+    "value": "v0.37.6",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/onyx-dot-app/onyx/releases": {
+    "value": "v3.2.4",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/ariebovenberg/whenever/releases": {
+    "value": "0.10.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/PostHog/posthog/releases": {
+    "value": "0.7.8",
+    "date": "2026-04-19",
+    "conf": 0.85
+  },
+  "https://github.com/pallets/flask/releases": {
+    "value": "3.1.3",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/zulip/zulip/releases": {
+    "value": "Zulip Server 11.6",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/vitalik/django-ninja/releases": {
+    "value": "1.6.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/getpelican/pelican/releases": {
+    "value": "Pelican 4.11.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/SpaceTimee/Fusion-JetBrainsMapleMono/releases": {
+    "value": "1.2304.79",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/gee-community/geemap/releases": {
+    "value": "v0.37.3rc1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/NVIDIA/TensorRT-LLM/releases": {
+    "value": "v1.3.0rc12",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/huggingface/transformers/releases": {
+    "value": "Patch release v5.5.4",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/KOWX712/Tricky-Addon-Update-Target-List/releases": {
+    "value": "v5.0-beta.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/axios/axios/releases": {
+    "value": "v1.15.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/HeyPuter/puter/releases": {
+    "value": "v2.5.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/4ian/GDevelop/releases": {
+    "value": "5.6.266",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/coderaiser/cloudcmd/releases": {
+    "value": "cloudcmd v19.13.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/zen-browser/desktop/releases": {
+    "value": "Release build - 1.19.8b (2026-04-08)",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/vercel/next.js/releases": {
+    "value": "v16.3.0-canary.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/sgoudelis/ground-station/releases": {
+    "value": "v0.3.16",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/TryGhost/Ghost/releases": {
+    "value": "v6.30.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/wekan/wekan/releases": {
+    "value": "v8.98",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/cockpit-project/cockpit/releases": {
+    "value": "360.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/bmad-code-org/BMAD-METHOD/releases": {
+    "value": "v6.3.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/libnoname/noname/releases": {
+    "value": "v1.11.3",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/harvard-edge/cs249r_book/releases": {
+    "value": "TinyTorch v0.1.9 - Computed Values, VS Code Extension & Progressive Disclosure",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/nodejs/undici/releases": {
+    "value": "v6.25.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/dotenvx/dotenvx/releases": {
+    "value": "v1.61.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/1186258278/OpenClawChineseTranslation/releases": {
+    "value": "\ud83e\udd9e OpenClaw \u6c49\u5316\u7248 v2026.4.15-zh.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/SillyTavern/SillyTavern/releases": {
+    "value": "1.17.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/phcode-dev/phoenix/releases": {
+    "value": "Phoenix Code Stable Release v5.0.5",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/sveltejs/kit/releases": {
+    "value": "@sveltejs/kit@2.57.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/ricktu288/ray-optics/releases": {
+    "value": "v5.3.0 \u2014 10th Anniversary Release",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/asciinema/asciinema-player/releases": {
+    "value": "3.15.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/sub-store-org/Sub-Store/releases": {
+    "value": "2.22.4",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/RemotePinee/AudioVisual/releases": {
+    "value": "v1.0.9",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/neomjs/neo/releases": {
+    "value": "Neo.mjs v12.1.0 Release Notes",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/certd/certd/releases": {
+    "value": "v1.39.10",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/jellyfin/jellyfin-web/releases": {
+    "value": "10.11.8",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/qingchencloud/clawpanel/releases": {
+    "value": "ClawPanel v0.13.3",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/mui/material-ui/releases": {
+    "value": "v7.3.10",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/google/docsy/releases": {
+    "value": "v0.14.3",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/WordPress/gutenberg/releases": {
+    "value": "23.0.0 RC1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/code-charity/youtube/releases": {
+    "value": "v4.1320",
+    "date": "2026-04-19",
+    "conf": 0.85
+  },
+  "https://github.com/bahmutov/start-server-and-test/releases": {
+    "value": "v3.0.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/helixml/helix/releases": {
+    "value": "2.9.30",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/dreadl0ck/netcap/releases": {
+    "value": "v0.9.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/istio/istio/releases": {
+    "value": "Istio 1.30.0-alpha.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/meshery/meshery/releases": {
+    "value": "Meshery v1.0.9",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/CJackHwang/ds2api/releases": {
+    "value": "v3.5.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/corazawaf/coraza/releases": {
+    "value": "v3.7.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/grafana/k6/releases": {
+    "value": "v1.7.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/xyproto/orbiton/releases": {
+    "value": "Orbiton 2.73.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/etcd-io/etcd/releases": {
+    "value": "v3.6.10",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/github/gh-aw/releases": {
+    "value": "v0.68.7",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/regclient/regclient/releases": {
+    "value": "v0.11.3",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/grafana/mimir/releases": {
+    "value": "2.17.9",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/mautrix/telegram/releases": {
+    "value": "v26.04",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/odigos-io/odigos/releases": {
+    "value": "v1.24.0-rc1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/henrygd/beszel/releases": {
+    "value": "v0.18.7",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/Azure/azqr/releases": {
+    "value": "v.3.1.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/MaaEnd/MaaEnd/releases": {
+    "value": "v2.7.0-beta.3",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/go-gitea/gitea/releases": {
+    "value": "v1.26.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/Agent-Field/agentfield/releases": {
+    "value": "v0.1.69-rc.6",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/ZenPrivacy/zen-desktop/releases": {
+    "value": "v0.20.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/brimdata/super/releases": {
+    "value": "v0.3.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/masterking32/MasterDnsVPN/releases": {
+    "value": "Release v2026.04.12.234117-978faee",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/amir20/dozzle/releases": {
+    "value": "v10.4.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/nevalang/neva/releases": {
+    "value": "v0.36.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/bazel-contrib/bazel-gazelle/releases": {
+    "value": "v0.50.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/aws/eks-anywhere/releases": {
+    "value": "v0.24.6",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/go-vikunja/vikunja/releases": {
+    "value": "v2.3.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/coder/coder/releases": {
+    "value": "v2.33.0-rc.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/rudderlabs/rudder-server/releases": {
+    "value": "v1.73.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/deckhouse/deckhouse/releases": {
+    "value": "1.75.3 Deckhouse Kubernetes Platform",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/yorukot/superfile/releases": {
+    "value": "v1.5.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/Gaurav-Gosain/tuios/releases": {
+    "value": "v0.7.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/external-secrets/external-secrets/releases": {
+    "value": "v2.3.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/navidrome/navidrome/releases": {
+    "value": "v0.61.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/abhinav/git-spice/releases": {
+    "value": "v0.25.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/oxc-project/tsgolint/releases": {
+    "value": "v0.21.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/eljojo/rememory/releases": {
+    "value": "v0.0.21",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/dosco/graphjin/releases": {
+    "value": "v3.18.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/cooperspencer/gickup/releases": {
+    "value": "v0.10.39",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/a-h/templ/releases": {
+    "value": "v0.3.1001",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/moonD4rk/HackBrowserData/releases": {
+    "value": "hack-browser-data-v0.4.6",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/mk6i/open-oscar-server/releases": {
+    "value": "v0.23.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/larksuite/cli/releases": {
+    "value": "v1.0.14",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/rudrankriyam/App-Store-Connect-CLI/releases": {
+    "value": "1.2.3",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/getarcaneapp/arcane/releases": {
+    "value": "v1.17.4",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/slack-go/slack/releases": {
+    "value": "v0.22.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/ghostunnel/ghostunnel/releases": {
+    "value": "Version 1.9.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/derailed/k9s/releases": {
+    "value": "v0.50.18",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/ferriskey/ferriskey/releases": {
+    "value": "v0.5.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/Umio-Yasuno/amdgpu_top/releases": {
+    "value": "v0.11.3",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/jdx/mise/releases": {
+    "value": "v2026.4.18: Deps management, aube support, and vfox plugin dependencies",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/chroma-core/chroma/releases": {
+    "value": "1.5.8",
+    "date": "2026-04-19",
+    "conf": 0.85
+  },
+  "https://github.com/fabro-sh/fabro/releases": {
+    "value": "v0.208.0-nightly.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/Canop/broot/releases": {
+    "value": "broot v1.56.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/joyanhui/ikuai-bypass/releases": {
+    "value": "ikuai-bypass-v4.4.103",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/servo/servo/releases": {
+    "value": "v0.1.0 (LTS)",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/cocoindex-io/cocoindex/releases": {
+    "value": "v1.0.0-alpha46",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/screenpipe/screenpipe/releases": {
+    "value": "Screenpipe App v2.4.12",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/zeroclaw-labs/zeroclaw/releases": {
+    "value": "v0.7.3",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/aptos-labs/aptos-core/releases": {
+    "value": "[Testnet] Aptos Node Release v1.44.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/iffse/pay-respects/releases": {
+    "value": "v0.8.5",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/nabijaczleweli/cargo-update/releases": {
+    "value": "v20.0.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/austin-weeks/miasma/releases": {
+    "value": "v0.2.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/mongodb/kingfisher/releases": {
+    "value": "Kingfisher v1.95.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/antinomyhq/forgecode/releases": {
+    "value": "v2.11.4",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/carthage-software/mago/releases": {
+    "value": "Mago 1.23.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/astral-sh/ruff/releases": {
+    "value": "0.15.11",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/zizmorcore/zizmor/releases": {
+    "value": "v1.24.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/moltis-org/moltis/releases": {
+    "value": "20260417.02",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/squidowl/halloy/releases": {
+    "value": "2026.5",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/EricLBuehler/mistral.rs/releases": {
+    "value": "v0.8.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/mstange/samply/releases": {
+    "value": "0.13.1 - 2025-02-01",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/ruvnet/RuView/releases": {
+    "value": "ESP32-S3 CSI Firmware v0.6.1 \u2014 Defensive node_id Fix",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/niri-wm/niri/releases": {
+    "value": "v25.11",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/telemt/telemt/releases": {
+    "value": "3.4.4 Allrounder",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/metalbear-co/mirrord/releases": {
+    "value": "3.203.1",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/zed-industries/zed/releases": {
+    "value": "v0.233.2-pre",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/openai/codex/releases": {
+    "value": "0.122.0-alpha.11",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/loongclaw-ai/loongclaw/releases": {
+    "value": "v0.1.0-alpha.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/Yeachan-Heo/clawhip/releases": {
+    "value": "v0.6.7",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/kenforthewin/atomic/releases": {
+    "value": "Atomic v1.23.3",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/dathere/qsv/releases": {
+    "value": "19.1.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/moonrepo/proto/releases": {
+    "value": "0.56.4",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/spiceai/spiceai/releases": {
+    "value": "v2.0.0-rc.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/aya-rs/aya/releases": {
+    "value": "aya-ebpf-bindings v0.1.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/yfedoseev/pdf_oxide/releases": {
+    "value": "v0.3.35 | Narrow-glyph doublet preservation in text extraction",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/kreuzberg-dev/kreuzberg/releases": {
+    "value": "v4.9.2",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/nohajc/anylinuxfs/releases": {
+    "value": "anylinuxfs-0.15.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/probe-rs/probe-rs/releases": {
+    "value": "0.31.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/mahkoh/jay/releases": {
+    "value": "Jay 1.12.0",
+    "date": "2026-04-19",
+    "conf": 0.95
+  },
+  "https://github.com/ruffle-rs/ruffle/releases": {
+    "value": "Release 0.2.0",
+    "date": "2026-05-17",
+    "conf": 0.85
+  }
+}

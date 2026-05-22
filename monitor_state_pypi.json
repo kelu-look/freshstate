@@ -1,0 +1,4897 @@
+{
+  "https://pypi.org/project/boto3/": {
+    "value": "1.43.9",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/packaging/": {
+    "value": "26.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/urllib3/": {
+    "value": "2.7.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/certifi/": {
+    "value": "2026.4.22",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/requests/": {
+    "value": "2.34.2",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/typing-extensions/": {
+    "value": "4.15.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/idna/": {
+    "value": "3.15",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/charset-normalizer/": {
+    "value": "3.4.7",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/setuptools/": {
+    "value": "82.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/botocore/": {
+    "value": "1.43.9",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cryptography/": {
+    "value": "48.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aiobotocore/": {
+    "value": "3.7.0",
+    "date": "2026-05-09",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-dateutil/": {
+    "value": "2.9.0.post0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/six/": {
+    "value": "1.17.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyyaml/": {
+    "value": "6.0.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cffi/": {
+    "value": "2.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pydantic/": {
+    "value": "2.13.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pygments/": {
+    "value": "2.20.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/click/": {
+    "value": "8.4.0",
+    "date": "2026-05-17",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/numpy/": {
+    "value": "2.4.5",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/grpcio-status/": {
+    "value": "1.80.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pycparser/": {
+    "value": "3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pydantic-core/": {
+    "value": "2.46.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pluggy/": {
+    "value": "1.6.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/s3transfer/": {
+    "value": "0.17.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/protobuf/": {
+    "value": "7.34.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/anyio/": {
+    "value": "4.13.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/attrs/": {
+    "value": "26.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/h11/": {
+    "value": "0.16.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/fsspec/": {
+    "value": "2026.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/annotated-types/": {
+    "value": "0.7.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytest/": {
+    "value": "9.0.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pandas/": {
+    "value": "3.0.3",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/httpx/": {
+    "value": "0.28.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/iniconfig/": {
+    "value": "2.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/httpcore/": {
+    "value": "1.0.9",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/s3fs/": {
+    "value": "2026.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/typing-inspection/": {
+    "value": "0.4.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/markupsafe/": {
+    "value": "3.0.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/platformdirs/": {
+    "value": "4.9.6",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-dotenv/": {
+    "value": "1.2.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pip/": {
+    "value": "26.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jinja2/": {
+    "value": "3.1.6",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyjwt/": {
+    "value": "2.12.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jmespath/": {
+    "value": "1.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/importlib-metadata/": {
+    "value": "9.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/rich/": {
+    "value": "15.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/filelock/": {
+    "value": "3.29.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aiohttp/": {
+    "value": "3.13.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/zipp/": {
+    "value": "3.23.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pathspec/": {
+    "value": "1.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/wheel/": {
+    "value": "0.47.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jsonschema/": {
+    "value": "4.26.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/markdown-it-py/": {
+    "value": "4.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytz/": {
+    "value": "2026.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyasn1/": {
+    "value": "0.6.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/multidict/": {
+    "value": "6.7.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/yarl/": {
+    "value": "1.23.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mdurl/": {
+    "value": "0.1.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/googleapis-common-protos/": {
+    "value": "1.75.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/starlette/": {
+    "value": "1.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/uvicorn/": {
+    "value": "0.47.0",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-auth/": {
+    "value": "2.53.0",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/rpds-py/": {
+    "value": "0.30.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tzdata/": {
+    "value": "2026.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/propcache/": {
+    "value": "0.5.2",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/frozenlist/": {
+    "value": "1.8.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/referencing/": {
+    "value": "0.37.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pillow/": {
+    "value": "12.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tqdm/": {
+    "value": "4.67.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-api-core/": {
+    "value": "2.30.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jsonschema-specifications/": {
+    "value": "2025.9.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/virtualenv/": {
+    "value": "21.3.3",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aiosignal/": {
+    "value": "1.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/grpcio/": {
+    "value": "1.80.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/fastapi/": {
+    "value": "0.136.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/annotated-doc/": {
+    "value": "0.0.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/colorama/": {
+    "value": "0.4.6",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aiohappyeyeballs/": {
+    "value": "2.6.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/awscli/": {
+    "value": "1.45.9",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/greenlet/": {
+    "value": "3.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyasn1-modules/": {
+    "value": "0.4.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyarrow/": {
+    "value": "24.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/requests-oauthlib/": {
+    "value": "2.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/wrapt/": {
+    "value": "2.1.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/opentelemetry-api/": {
+    "value": "1.41.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/scipy/": {
+    "value": "1.17.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tomli/": {
+    "value": "2.4.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tenacity/": {
+    "value": "9.1.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyparsing/": {
+    "value": "3.3.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/trove-classifiers/": {
+    "value": "2026.5.7.17",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sqlalchemy/": {
+    "value": "2.0.49",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/opentelemetry-sdk/": {
+    "value": "1.41.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/typer/": {
+    "value": "0.25.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/beautifulsoup4/": {
+    "value": "4.14.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/shellingham/": {
+    "value": "1.5.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/websockets/": {
+    "value": "16.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/oauthlib/": {
+    "value": "3.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/soupsieve/": {
+    "value": "2.8.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/psutil/": {
+    "value": "7.2.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-multipart/": {
+    "value": "0.0.29",
+    "date": "2026-05-17",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/lxml/": {
+    "value": "6.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sniffio/": {
+    "value": "1.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/regex/": {
+    "value": "2026.5.9",
+    "date": "2026-05-09",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pydantic-settings/": {
+    "value": "2.14.1",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/rsa/": {
+    "value": "4.9.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cachetools/": {
+    "value": "7.1.2",
+    "date": "2026-05-16",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/exceptiongroup/": {
+    "value": "1.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/more-itertools/": {
+    "value": "11.0.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/litellm/": {
+    "value": "1.85.0",
+    "date": "2026-05-17",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/requests-toolbelt/": {
+    "value": "1.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/distlib/": {
+    "value": "0.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/proto-plus/": {
+    "value": "1.28.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tomlkit/": {
+    "value": "0.15.0",
+    "date": "2026-05-10",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/hatchling/": {
+    "value": "1.29.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/grpcio-tools/": {
+    "value": "1.80.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/docutils/": {
+    "value": "0.22.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/websocket-client/": {
+    "value": "1.9.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/openai/": {
+    "value": "2.37.0",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/openpyxl/": {
+    "value": "3.1.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mypy-extensions/": {
+    "value": "1.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/et-xmlfile/": {
+    "value": "2.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/watchfiles/": {
+    "value": "1.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/opentelemetry-proto/": {
+    "value": "1.41.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/werkzeug/": {
+    "value": "3.1.8",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/distro/": {
+    "value": "1.9.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jiter/": {
+    "value": "0.14.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/coverage/": {
+    "value": "7.14.0",
+    "date": "2026-05-10",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-storage/": {
+    "value": "3.10.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mcp/": {
+    "value": "1.27.1",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/networkx/": {
+    "value": "3.6.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/wcwidth/": {
+    "value": "0.7.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/msgpack/": {
+    "value": "1.1.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/dnspython/": {
+    "value": "2.8.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/langchain/": {
+    "value": "1.3.1",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/huggingface-hub/": {
+    "value": "1.15.0",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/opentelemetry-exporter-otlp-proto-http/": {
+    "value": "1.41.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/decorator/": {
+    "value": "5.3.0",
+    "date": "2026-05-17",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyopenssl/": {
+    "value": "26.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ptyprocess/": {
+    "value": "0.7.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sglang/": {
+    "value": "0.5.12",
+    "date": "2026-05-16",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/smmap/": {
+    "value": "6.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pexpect/": {
+    "value": "4.9.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/redis/": {
+    "value": "7.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/psycopg2-binary/": {
+    "value": "2.9.12",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/gitpython/": {
+    "value": "3.1.50",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sse-starlette/": {
+    "value": "3.4.4",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/textual/": {
+    "value": "8.2.6",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/fonttools/": {
+    "value": "4.63.0",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/editables/": {
+    "value": "0.6",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pynacl/": {
+    "value": "1.6.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-genai/": {
+    "value": "2.3.0",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sortedcontainers/": {
+    "value": "2.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/matplotlib/": {
+    "value": "3.10.9",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/docker/": {
+    "value": "7.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-discovery/": {
+    "value": "1.3.1",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tabulate/": {
+    "value": "0.10.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/flask/": {
+    "value": "3.1.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/kiwisolver/": {
+    "value": "1.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/async-timeout/": {
+    "value": "5.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/scikit-learn/": {
+    "value": "1.8.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ruff/": {
+    "value": "0.15.13",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/opentelemetry-exporter-otlp-proto-common/": {
+    "value": "1.41.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/keyring/": {
+    "value": "25.7.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/isodate/": {
+    "value": "0.7.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/gitdb/": {
+    "value": "4.0.12",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-core/": {
+    "value": "2.6.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/opentelemetry-exporter-otlp-proto-grpc/": {
+    "value": "1.41.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/prompt-toolkit/": {
+    "value": "3.0.52",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/joblib/": {
+    "value": "1.5.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/contourpy/": {
+    "value": "1.3.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/docstring-parser/": {
+    "value": "0.18.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/itsdangerous/": {
+    "value": "2.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jaraco-classes/": {
+    "value": "3.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/multiprocess/": {
+    "value": "0.70.19",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/secretstorage/": {
+    "value": "3.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jeepney/": {
+    "value": "0.9.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/bcrypt/": {
+    "value": "5.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/azure-identity/": {
+    "value": "1.25.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytest-cov/": {
+    "value": "7.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/threadpoolctl/": {
+    "value": "3.6.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/uvloop/": {
+    "value": "0.22.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/azure-core/": {
+    "value": "1.41.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-resumable-media/": {
+    "value": "2.9.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-crc32c/": {
+    "value": "1.8.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/chardet/": {
+    "value": "7.4.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/httpx-sse/": {
+    "value": "0.4.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/orjson/": {
+    "value": "3.11.9",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jaraco-context/": {
+    "value": "6.1.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/alembic/": {
+    "value": "1.18.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/dill/": {
+    "value": "0.4.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/blinker/": {
+    "value": "1.9.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jaraco-functools/": {
+    "value": "4.5.0",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/msal/": {
+    "value": "1.36.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/defusedxml/": {
+    "value": "0.7.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cycler/": {
+    "value": "0.12.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/deprecated/": {
+    "value": "1.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/zstandard/": {
+    "value": "0.25.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/hf-xet/": {
+    "value": "1.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/poetry-core/": {
+    "value": "2.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ruamel-yaml/": {
+    "value": "0.19.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/kubernetes/": {
+    "value": "35.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/snowflake-connector-python/": {
+    "value": "4.5.0",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytest-asyncio/": {
+    "value": "1.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/email-validator/": {
+    "value": "2.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/httptools/": {
+    "value": "0.7.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tzlocal/": {
+    "value": "5.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/types-requests/": {
+    "value": "2.33.0.20260513",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/toml/": {
+    "value": "0.10.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nodeenv/": {
+    "value": "1.10.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ipython/": {
+    "value": "9.13.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/rapidfuzz/": {
+    "value": "3.14.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sympy/": {
+    "value": "1.14.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mako/": {
+    "value": "1.3.12",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jsonpointer/": {
+    "value": "3.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyproject-hooks/": {
+    "value": "1.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/prometheus-client/": {
+    "value": "0.25.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-api-python-client/": {
+    "value": "2.196.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tokenizers/": {
+    "value": "0.23.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/uv/": {
+    "value": "0.11.14",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/asn1crypto/": {
+    "value": "1.5.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mypy/": {
+    "value": "2.1.0",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/build/": {
+    "value": "1.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/setuptools-scm/": {
+    "value": "10.0.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tiktoken/": {
+    "value": "0.13.0",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-aiplatform/": {
+    "value": "1.153.1",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/backoff/": {
+    "value": "2.2.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pydantic-ai-slim/": {
+    "value": "1.97.0",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-auth-oauthlib/": {
+    "value": "1.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/uritemplate/": {
+    "value": "4.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mpmath/": {
+    "value": "1.4.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-bigquery/": {
+    "value": "3.41.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-auth-httplib2/": {
+    "value": "0.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/paramiko/": {
+    "value": "5.0.0",
+    "date": "2026-05-09",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/identify/": {
+    "value": "2.6.19",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cfgv/": {
+    "value": "3.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/traitlets/": {
+    "value": "5.15.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pre-commit/": {
+    "value": "4.6.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/parso/": {
+    "value": "0.8.7",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/fastjsonschema/": {
+    "value": "2.21.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/httplib2/": {
+    "value": "0.31.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/transformers/": {
+    "value": "5.8.1",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/opentelemetry-exporter-otlp/": {
+    "value": "1.41.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jedi/": {
+    "value": "0.20.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/executing/": {
+    "value": "2.2.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/marshmallow/": {
+    "value": "4.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/xxhash/": {
+    "value": "3.7.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tree-sitter/": {
+    "value": "0.25.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sqlparse/": {
+    "value": "0.5.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cloudpickle/": {
+    "value": "3.1.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/asttokens/": {
+    "value": "3.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/matplotlib-inline/": {
+    "value": "0.2.2",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tornado/": {
+    "value": "6.5.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/grpc-google-iam-v1/": {
+    "value": "0.14.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/babel/": {
+    "value": "2.18.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/durationpy/": {
+    "value": "0.10",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytest-xdist/": {
+    "value": "3.8.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aiofiles/": {
+    "value": "25.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/msal-extensions/": {
+    "value": "1.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/h2/": {
+    "value": "4.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/gunicorn/": {
+    "value": "26.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pure-eval/": {
+    "value": "0.2.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/hyperframe/": {
+    "value": "6.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/stack-data/": {
+    "value": "0.6.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/hpack/": {
+    "value": "4.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cython/": {
+    "value": "3.2.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/execnet/": {
+    "value": "2.1.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jsonpatch/": {
+    "value": "1.33",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/black/": {
+    "value": "26.5.0",
+    "date": "2026-05-16",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-secret-manager/": {
+    "value": "2.28.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/asgiref/": {
+    "value": "3.11.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/azure-storage-blob/": {
+    "value": "12.29.0",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/authlib/": {
+    "value": "1.7.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/xmltodict/": {
+    "value": "1.0.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/markdown/": {
+    "value": "3.10.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/vcs-versioning/": {
+    "value": "1.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sentry-sdk/": {
+    "value": "2.60.0",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/termcolor/": {
+    "value": "3.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/databricks-sdk/": {
+    "value": "0.108.0",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/webencodings/": {
+    "value": "0.5.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nest-asyncio/": {
+    "value": "1.6.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/py4j/": {
+    "value": "0.10.9.9",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-batch/": {
+    "value": "0.21.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/importlib-resources/": {
+    "value": "7.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/anthropic/": {
+    "value": "0.102.0",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/datasets/": {
+    "value": "4.8.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-json-logger/": {
+    "value": "4.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/langchain-core/": {
+    "value": "1.4.0",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/weaviate-client/": {
+    "value": "4.21.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytest-json-ctrf/": {
+    "value": "0.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tree-sitter-languages/": {
+    "value": "1.10.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cachecontrol/": {
+    "value": "0.14.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-analytics-admin/": {
+    "value": "0.29.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/debugpy/": {
+    "value": "1.8.20",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/typing-inspect/": {
+    "value": "0.9.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/dbt-core/": {
+    "value": "1.11.10",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyzmq/": {
+    "value": "27.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/watchdog/": {
+    "value": "6.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pymongo/": {
+    "value": "4.17.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/databricks-sql-connector/": {
+    "value": "4.2.6",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/librt/": {
+    "value": "0.11.0",
+    "date": "2026-05-10",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyee/": {
+    "value": "13.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytest-mock/": {
+    "value": "3.15.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/gcsfs/": {
+    "value": "2026.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/isort/": {
+    "value": "8.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jsonschema-path/": {
+    "value": "0.4.6",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aioitertools/": {
+    "value": "0.13.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/dbt-adapters/": {
+    "value": "1.24.0",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-compute/": {
+    "value": "1.47.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/dulwich/": {
+    "value": "1.2.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mccabe/": {
+    "value": "0.7.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/awswrangler/": {
+    "value": "3.16.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-kms/": {
+    "value": "3.13.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pycryptodome/": {
+    "value": "3.23.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pandas-stubs/": {
+    "value": "3.0.0.260204",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/lz4/": {
+    "value": "4.4.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/playwright/": {
+    "value": "1.59.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/slack-sdk/": {
+    "value": "3.41.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pymysql/": {
+    "value": "1.1.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tinycss2/": {
+    "value": "1.5.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/installer/": {
+    "value": "1.0.1",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pkginfo/": {
+    "value": "1.12.1.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/torch/": {
+    "value": "2.12.0",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/flatbuffers/": {
+    "value": "25.12.19",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/grpcio-health-checking/": {
+    "value": "1.80.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pathable/": {
+    "value": "0.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/dataclasses-json/": {
+    "value": "0.6.7",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/narwhals/": {
+    "value": "2.21.2",
+    "date": "2026-05-16",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/deepdiff/": {
+    "value": "9.1.0",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jupyter-core/": {
+    "value": "5.9.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyperclip/": {
+    "value": "1.11.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ydb/": {
+    "value": "3.29.0",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/langsmith/": {
+    "value": "0.8.5",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/msrest/": {
+    "value": "0.7.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/typedload/": {
+    "value": "2.40",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pymupdf/": {
+    "value": "1.27.2.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/rfc3339-validator/": {
+    "value": "0.1.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jsonpath-ng/": {
+    "value": "1.8.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-dlp/": {
+    "value": "3.36.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pygithub/": {
+    "value": "2.9.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-speech/": {
+    "value": "2.39.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pycodestyle/": {
+    "value": "2.14.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/poetry/": {
+    "value": "2.4.1",
+    "date": "2026-05-09",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/dbt-common/": {
+    "value": "2.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ruamel-yaml-clib/": {
+    "value": "0.2.15",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ipykernel/": {
+    "value": "7.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/structlog/": {
+    "value": "25.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/types-pyyaml/": {
+    "value": "6.0.12.20260510",
+    "date": "2026-05-10",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/xlsxwriter/": {
+    "value": "3.2.9",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/invoke/": {
+    "value": "3.0.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jupyter-client/": {
+    "value": "8.8.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/safetensors/": {
+    "value": "0.7.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/loguru/": {
+    "value": "0.7.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/semver/": {
+    "value": "3.0.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pydantic-graph/": {
+    "value": "1.97.0",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jsonref/": {
+    "value": "1.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cyclopts/": {
+    "value": "4.13.0",
+    "date": "2026-05-16",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/arrow/": {
+    "value": "1.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/crashtest/": {
+    "value": "0.4.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-pubsub/": {
+    "value": "2.38.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/rich-toolkit/": {
+    "value": "0.19.9",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-monitoring/": {
+    "value": "2.30.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/argcomplete/": {
+    "value": "3.6.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/comm/": {
+    "value": "0.2.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sphinx/": {
+    "value": "9.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/beartype/": {
+    "value": "0.22.9",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/asyncpg/": {
+    "value": "0.31.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/text-unidecode/": {
+    "value": "1.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/shapely/": {
+    "value": "2.1.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-slugify/": {
+    "value": "8.0.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cleo/": {
+    "value": "2.2.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/smart-open/": {
+    "value": "7.6.1",
+    "date": "2026-05-09",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/brotli/": {
+    "value": "1.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytokens/": {
+    "value": "0.4.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/rich-rst/": {
+    "value": "2.0.1",
+    "date": "2026-05-16",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pendulum/": {
+    "value": "3.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/notebook/": {
+    "value": "7.5.6",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/types-protobuf/": {
+    "value": "7.34.1.20260508",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/backports-tarfile/": {
+    "value": "1.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/wsproto/": {
+    "value": "1.3.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/graphql-core/": {
+    "value": "3.2.8",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/future/": {
+    "value": "1.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/fastmcp/": {
+    "value": "3.3.1",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cattrs/": {
+    "value": "26.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/datadog/": {
+    "value": "0.52.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mistune/": {
+    "value": "3.2.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/lark/": {
+    "value": "1.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ujson/": {
+    "value": "5.12.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-tasks/": {
+    "value": "2.22.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-logging/": {
+    "value": "3.15.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/simplejson/": {
+    "value": "4.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/requests-file/": {
+    "value": "3.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/croniter/": {
+    "value": "6.2.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ipython-pygments-lexers/": {
+    "value": "1.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/poetry-plugin-export/": {
+    "value": "1.10.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-resource-manager/": {
+    "value": "1.17.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/faker/": {
+    "value": "40.18.0",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-bigtable/": {
+    "value": "2.38.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-vision/": {
+    "value": "3.14.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/opensearch-py/": {
+    "value": "3.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/onnxruntime/": {
+    "value": "1.26.0",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/bleach/": {
+    "value": "6.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nbformat/": {
+    "value": "5.10.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/xlrd/": {
+    "value": "2.0.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/deprecation/": {
+    "value": "2.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/py/": {
+    "value": "1.11.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/argon2-cffi-bindings/": {
+    "value": "25.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/argon2-cffi/": {
+    "value": "25.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/azure-common/": {
+    "value": "1.1.28",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/snowflake-sqlalchemy/": {
+    "value": "1.9.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyflakes/": {
+    "value": "3.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/typeguard/": {
+    "value": "4.5.2",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/psycopg/": {
+    "value": "3.3.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/langchain-openai/": {
+    "value": "1.2.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cbor2/": {
+    "value": "6.1.1",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-texttospeech/": {
+    "value": "2.36.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mdit-py-plugins/": {
+    "value": "0.6.1",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pysocks/": {
+    "value": "1.7.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-workflows/": {
+    "value": "1.22.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sqlalchemy-bigquery/": {
+    "value": "1.17.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-language/": {
+    "value": "2.20.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-videointelligence/": {
+    "value": "2.19.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/responses/": {
+    "value": "0.26.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/plotly/": {
+    "value": "6.7.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/scramp/": {
+    "value": "1.4.8",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nbconvert/": {
+    "value": "7.17.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-redis/": {
+    "value": "2.21.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-dataform/": {
+    "value": "0.10.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/numba/": {
+    "value": "0.65.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-os-login/": {
+    "value": "2.21.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/py-key-value-aio/": {
+    "value": "0.4.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sqlglot/": {
+    "value": "30.8.0",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/llvmlite/": {
+    "value": "0.47.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/zope-interface/": {
+    "value": "8.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pycryptodomex/": {
+    "value": "3.23.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/linkify-it-py/": {
+    "value": "2.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pbs-installer/": {
+    "value": "2026.5.10",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/types-toml/": {
+    "value": "0.10.8.20260508",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/colorlog/": {
+    "value": "6.10.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/json5/": {
+    "value": "0.14.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nltk/": {
+    "value": "3.9.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/requests-aws4auth/": {
+    "value": "1.3.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/absl-py/": {
+    "value": "2.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-memcache/": {
+    "value": "1.15.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/triton/": {
+    "value": "3.7.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytest-timeout/": {
+    "value": "2.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/toolz/": {
+    "value": "1.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/selenium/": {
+    "value": "4.44.0",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/dacite/": {
+    "value": "1.9.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/uc-micro-py/": {
+    "value": "2.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/fastuuid/": {
+    "value": "0.14.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/uuid-utils/": {
+    "value": "0.15.0",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/flake8/": {
+    "value": "7.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nbclient/": {
+    "value": "0.10.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-ads/": {
+    "value": "31.0.0",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/psycopg-binary/": {
+    "value": "3.3.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/confluent-kafka/": {
+    "value": "2.14.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/setproctitle/": {
+    "value": "1.3.7",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pypdf/": {
+    "value": "6.11.0",
+    "date": "2026-05-09",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/joserfc/": {
+    "value": "1.6.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tomli-w/": {
+    "value": "1.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/seaborn/": {
+    "value": "0.13.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/uncalled-for/": {
+    "value": "0.3.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mmh3/": {
+    "value": "5.2.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/types-python-dateutil/": {
+    "value": "2.9.0.20260508",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jupyterlab/": {
+    "value": "4.5.7",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/orderly-set/": {
+    "value": "5.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/async-lru/": {
+    "value": "2.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/openapi-pydantic/": {
+    "value": "0.5.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jupyter-server/": {
+    "value": "2.18.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/humanize/": {
+    "value": "4.15.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/types-certifi/": {
+    "value": "2021.10.8.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/flask-cors/": {
+    "value": "6.0.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/findpython/": {
+    "value": "0.8.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pywin32/": {
+    "value": "311",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pandocfilters/": {
+    "value": "1.5.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/elasticsearch/": {
+    "value": "9.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jupyterlab-pygments/": {
+    "value": "0.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ecdsa/": {
+    "value": "0.19.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/polars/": {
+    "value": "1.40.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-run/": {
+    "value": "0.16.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyspark/": {
+    "value": "4.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/inflection/": {
+    "value": "0.5.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-docx/": {
+    "value": "1.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ray/": {
+    "value": "2.55.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/grpclib/": {
+    "value": "0.4.9",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aws-sam-translator/": {
+    "value": "1.109.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/kombu/": {
+    "value": "5.6.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/altair/": {
+    "value": "6.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/click-plugins/": {
+    "value": "1.1.1.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cfn-lint/": {
+    "value": "1.51.0",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/types-awscrt/": {
+    "value": "0.31.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/celery/": {
+    "value": "5.6.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/azure-keyvault-secrets/": {
+    "value": "4.11.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/libcst/": {
+    "value": "1.8.6",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/humanfriendly/": {
+    "value": "10.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/astroid/": {
+    "value": "4.1.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/apache-airflow-providers-common-sql/": {
+    "value": "1.36.0",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/botocore-stubs/": {
+    "value": "1.42.41",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/trio/": {
+    "value": "0.33.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/antlr4-python3-runtime/": {
+    "value": "4.13.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/redshift-connector/": {
+    "value": "2.1.13",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/prettytable/": {
+    "value": "3.17.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cwsandbox/": {
+    "value": "0.23.0",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/webcolors/": {
+    "value": "25.10.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aiosqlite/": {
+    "value": "0.22.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-bigquery-datatransfer/": {
+    "value": "3.22.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/caio/": {
+    "value": "0.9.25",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/gevent/": {
+    "value": "26.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pylint/": {
+    "value": "4.0.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/opencv-python/": {
+    "value": "4.13.0.92",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pymssql/": {
+    "value": "2.3.13",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/portalocker/": {
+    "value": "3.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/outcome/": {
+    "value": "1.3.0.post0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-orchestration-airflow/": {
+    "value": "1.21.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aiofile/": {
+    "value": "3.11.1",
+    "date": "2026-05-16",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-nccl-cu12/": {
+    "value": "2.30.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ply/": {
+    "value": "3.11",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/modal/": {
+    "value": "1.4.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-dataproc-metastore/": {
+    "value": "1.22.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/types-s3transfer/": {
+    "value": "0.16.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/lazy-object-proxy/": {
+    "value": "1.12.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mysql-connector-python/": {
+    "value": "9.7.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jupyterlab-server/": {
+    "value": "2.28.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/send2trash/": {
+    "value": "2.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/django/": {
+    "value": "6.0.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/synchronicity/": {
+    "value": "0.12.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/langgraph/": {
+    "value": "1.2.0",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-appengine-logging/": {
+    "value": "1.9.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ghapi/": {
+    "value": "1.0.13",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/unidiff/": {
+    "value": "0.7.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/imageio/": {
+    "value": "2.37.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/vine/": {
+    "value": "5.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/overrides/": {
+    "value": "7.7.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/fqdn/": {
+    "value": "1.5.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/isoduration/": {
+    "value": "20.11.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/uri-template/": {
+    "value": "1.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/iso8601/": {
+    "value": "2.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/amqp/": {
+    "value": "5.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/snowflake-snowpark-python/": {
+    "value": "1.50.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/billiard/": {
+    "value": "4.2.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/click-didyoumean/": {
+    "value": "0.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/events/": {
+    "value": "0.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/griffelib/": {
+    "value": "2.0.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/langchain-community/": {
+    "value": "0.4.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/rfc3986-validator/": {
+    "value": "0.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/openapi-spec-validator/": {
+    "value": "0.8.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-automl/": {
+    "value": "2.19.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aenum/": {
+    "value": "3.1.17",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/universal-pathlib/": {
+    "value": "0.3.10",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/fastcore/": {
+    "value": "1.13.2",
+    "date": "2026-05-17",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pg8000/": {
+    "value": "1.31.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/click-repl/": {
+    "value": "0.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/boto3-stubs/": {
+    "value": "1.43.9",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/widgetsnbextension/": {
+    "value": "4.0.15",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ijson/": {
+    "value": "3.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-dataflow-client/": {
+    "value": "0.13.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/h5py/": {
+    "value": "3.16.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/semgrep/": {
+    "value": "1.163.0",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/terminado/": {
+    "value": "0.18.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jupyterlab-widgets/": {
+    "value": "3.0.16",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/db-dtypes/": {
+    "value": "1.6.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jupyter-events/": {
+    "value": "0.12.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jupyter-server-terminals/": {
+    "value": "0.5.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/rich-click/": {
+    "value": "1.9.7",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyrsistent/": {
+    "value": "0.20.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ipywidgets/": {
+    "value": "8.1.8",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/xgboost/": {
+    "value": "3.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tox/": {
+    "value": "4.54.0",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/langchain-text-splitters/": {
+    "value": "1.1.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/gspread/": {
+    "value": "6.2.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/duckdb/": {
+    "value": "1.5.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/diskcache/": {
+    "value": "5.6.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyarrow-hotfix/": {
+    "value": "0.7",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/psycopg2/": {
+    "value": "2.9.12",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/freezegun/": {
+    "value": "1.5.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-audit-log/": {
+    "value": "0.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/graphviz/": {
+    "value": "0.21",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/rfc3986/": {
+    "value": "2.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/fakeredis/": {
+    "value": "2.35.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pdfminer-six/": {
+    "value": "20260107",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jupyter-lsp/": {
+    "value": "2.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jsii/": {
+    "value": "1.130.0",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/adal/": {
+    "value": "1.2.7",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/notebook-shim/": {
+    "value": "0.2.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyodbc/": {
+    "value": "5.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/semantic-version/": {
+    "value": "2.10.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/apscheduler/": {
+    "value": "3.11.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-jose/": {
+    "value": "3.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/zeep/": {
+    "value": "4.3.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/oauth2client/": {
+    "value": "4.1.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/fastavro/": {
+    "value": "1.12.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ordered-set/": {
+    "value": "4.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/appdirs/": {
+    "value": "1.4.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/types-pytz/": {
+    "value": "2026.2.0.20260506",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cuda-pathfinder/": {
+    "value": "1.5.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/moto/": {
+    "value": "5.2.1",
+    "date": "2026-05-10",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cuda-bindings/": {
+    "value": "13.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/langgraph-prebuilt/": {
+    "value": "1.1.0",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/gcloud-aio-storage/": {
+    "value": "9.6.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ormsgpack/": {
+    "value": "1.12.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/polars-runtime-32/": {
+    "value": "1.40.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pydantic-extra-types/": {
+    "value": "2.11.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mlflow-skinny/": {
+    "value": "3.12.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nh3/": {
+    "value": "0.3.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyhumps/": {
+    "value": "3.8.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ddtrace/": {
+    "value": "4.8.4",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/trio-websocket/": {
+    "value": "0.12.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/thrift/": {
+    "value": "0.23.0",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/msgspec/": {
+    "value": "0.21.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/langgraph-checkpoint/": {
+    "value": "4.1.0",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/opencv-python-headless/": {
+    "value": "4.13.0.92",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/langgraph-sdk/": {
+    "value": "0.3.14",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/azure-mgmt-core/": {
+    "value": "1.6.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cohere/": {
+    "value": "6.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-bigquery-storage/": {
+    "value": "2.38.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/rfc3987-syntax/": {
+    "value": "1.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/dateparser/": {
+    "value": "1.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/coloredlogs/": {
+    "value": "15.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/yandexcloud/": {
+    "value": "0.390.0",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/statsmodels/": {
+    "value": "0.14.6",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/azure-storage-file-datalake/": {
+    "value": "12.24.0",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/delta-spark/": {
+    "value": "4.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/omegaconf/": {
+    "value": "2.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/fastapi-cli/": {
+    "value": "0.0.24",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mlflow/": {
+    "value": "3.12.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/graphql-relay/": {
+    "value": "3.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-telegram-bot/": {
+    "value": "22.7",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/graphene/": {
+    "value": "3.4.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/bytecode/": {
+    "value": "0.17.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/retry/": {
+    "value": "0.9.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/backports-zstd/": {
+    "value": "1.5.0",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/swebench/": {
+    "value": "4.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-spanner/": {
+    "value": "3.66.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/envier/": {
+    "value": "0.6.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tableauserverclient/": {
+    "value": "0.40",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/flit-core/": {
+    "value": "3.12.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mashumaro/": {
+    "value": "3.21",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pypdfium2/": {
+    "value": "5.8.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/patsy/": {
+    "value": "1.0.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/torchvision/": {
+    "value": "0.27.0",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytest-rerunfailures/": {
+    "value": "16.2",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/html5lib/": {
+    "value": "1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/retrying/": {
+    "value": "1.4.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyiceberg/": {
+    "value": "0.11.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pandas-gbq/": {
+    "value": "0.35.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/reportlab/": {
+    "value": "4.5.1",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/markdownify/": {
+    "value": "1.2.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cssselect2/": {
+    "value": "0.9.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/snowballstemmer/": {
+    "value": "3.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mergedeep/": {
+    "value": "1.3.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mypy-boto3-s3/": {
+    "value": "1.43.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/hypothesis/": {
+    "value": "6.152.7",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/axiom-py/": {
+    "value": "0.10.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/peewee/": {
+    "value": "4.0.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sentencepiece/": {
+    "value": "0.2.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/openapi-schema-validator/": {
+    "value": "0.9.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/junitparser/": {
+    "value": "5.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/phonenumbers/": {
+    "value": "9.0.30",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/limits/": {
+    "value": "5.8.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pinotdb/": {
+    "value": "9.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/dbt-protos/": {
+    "value": "1.0.498",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytest-metadata/": {
+    "value": "3.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-pasta/": {
+    "value": "0.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/unidecode/": {
+    "value": "1.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ml-dtypes/": {
+    "value": "0.5.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ninja/": {
+    "value": "1.13.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyright/": {
+    "value": "1.1.409",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/zope-event/": {
+    "value": "6.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-firestore/": {
+    "value": "2.27.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pycountry/": {
+    "value": "26.2.16",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/azure-storage-queue/": {
+    "value": "12.16.0",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/elastic-transport/": {
+    "value": "9.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/entrypoints/": {
+    "value": "0.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/great-expectations/": {
+    "value": "1.17.2",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/imagesize/": {
+    "value": "2.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyroaring/": {
+    "value": "1.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/filetype/": {
+    "value": "1.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/gcloud-aio-auth/": {
+    "value": "5.4.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/simple-salesforce/": {
+    "value": "1.12.9",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/readme-renderer/": {
+    "value": "44.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/types-setuptools/": {
+    "value": "82.0.0.20260508",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/agate/": {
+    "value": "1.14.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/stripe/": {
+    "value": "15.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aioboto3/": {
+    "value": "15.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/scikit-image/": {
+    "value": "0.26.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mock/": {
+    "value": "5.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/yamllint/": {
+    "value": "1.38.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/bracex/": {
+    "value": "2.6",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/posthog/": {
+    "value": "7.14.2",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/passlib/": {
+    "value": "1.7.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-pptx/": {
+    "value": "1.0.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytimeparse/": {
+    "value": "1.1.8",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-nvshmem-cu13/": {
+    "value": "3.6.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sshtunnel/": {
+    "value": "0.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cudnn-cu13/": {
+    "value": "9.22.0.52",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cublas-cu12/": {
+    "value": "12.9.2.10",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/frozendict/": {
+    "value": "2.4.7",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/natsort/": {
+    "value": "8.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/lazy-loader/": {
+    "value": "0.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/validators/": {
+    "value": "0.35.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/apache-airflow-providers-fab/": {
+    "value": "3.6.3",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cublas/": {
+    "value": "13.4.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-nccl-cu13/": {
+    "value": "2.30.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/types-cachetools/": {
+    "value": "7.0.0.20260503",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aiohttp-retry/": {
+    "value": "2.9.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cusparselt-cu13/": {
+    "value": "0.9.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/griffe/": {
+    "value": "2.0.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/parsedatetime/": {
+    "value": "2.6",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tldextract/": {
+    "value": "5.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tblib/": {
+    "value": "3.2.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cuda-nvrtc-cu12/": {
+    "value": "12.9.86",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/stevedore/": {
+    "value": "5.7.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/time-machine/": {
+    "value": "3.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/twine/": {
+    "value": "6.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/hyperlink/": {
+    "value": "21.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cusparse-cu12/": {
+    "value": "12.5.10.65",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sendgrid/": {
+    "value": "6.12.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/asyncio/": {
+    "value": "4.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/databricks-sqlalchemy/": {
+    "value": "2.0.9",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cudnn-cu12/": {
+    "value": "9.22.0.52",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/crc32c/": {
+    "value": "2.8",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/fire/": {
+    "value": "0.7.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytest-runner/": {
+    "value": "6.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-nvjitlink-cu12/": {
+    "value": "12.9.86",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/hvac/": {
+    "value": "2.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cuda-nvrtc/": {
+    "value": "13.2.78",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cufft-cu12/": {
+    "value": "11.4.1.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cusolver-cu12/": {
+    "value": "11.7.5.82",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-translate/": {
+    "value": "3.26.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cuda-toolkit/": {
+    "value": "13.2.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sphinxcontrib-serializinghtml/": {
+    "value": "2.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-curand-cu12/": {
+    "value": "10.3.10.19",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/wcmatch/": {
+    "value": "10.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cusparse/": {
+    "value": "12.7.10.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cufft/": {
+    "value": "12.2.0.46",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cuda-cupti-cu12/": {
+    "value": "12.9.79",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cusolver/": {
+    "value": "12.2.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/flask-sqlalchemy/": {
+    "value": "3.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pbr/": {
+    "value": "7.0.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-curand/": {
+    "value": "10.4.2.55",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-dataproc/": {
+    "value": "5.27.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/lockfile/": {
+    "value": "0.12.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-nvjitlink/": {
+    "value": "13.2.78",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mistralai/": {
+    "value": "2.4.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/uv-build/": {
+    "value": "0.11.14",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cramjam/": {
+    "value": "2.11.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cuda-cupti/": {
+    "value": "13.2.75",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/alabaster/": {
+    "value": "1.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/typer-slim/": {
+    "value": "0.24.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pip-tools/": {
+    "value": "7.5.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cuda-runtime/": {
+    "value": "13.2.75",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pdfplumber/": {
+    "value": "0.11.9",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pydata-google-auth/": {
+    "value": "1.9.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-container/": {
+    "value": "2.64.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/weasel/": {
+    "value": "1.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tensorboard/": {
+    "value": "2.20.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/schema/": {
+    "value": "0.7.8",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-magic/": {
+    "value": "0.4.27",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-http-client/": {
+    "value": "3.3.7",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/dbt-semantic-interfaces/": {
+    "value": "0.10.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sqlalchemy-utils/": {
+    "value": "0.42.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cufile/": {
+    "value": "1.17.1.22",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/temporalio/": {
+    "value": "1.27.2",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/dask/": {
+    "value": "2026.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/holidays/": {
+    "value": "0.96",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cuda-runtime-cu12/": {
+    "value": "12.9.79",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/types-urllib3/": {
+    "value": "1.26.25.14",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-nvtx/": {
+    "value": "13.2.75",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/py-cpuinfo/": {
+    "value": "9.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-ml-py/": {
+    "value": "13.595.45",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/streamlit/": {
+    "value": "1.57.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/msrestazure/": {
+    "value": "0.6.4.post1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/id/": {
+    "value": "1.6.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/astor/": {
+    "value": "0.8.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pybind11/": {
+    "value": "3.0.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/youtube-transcript-api/": {
+    "value": "1.2.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-datacatalog/": {
+    "value": "3.30.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/strictyaml/": {
+    "value": "1.7.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pydantic-ai/": {
+    "value": "1.97.0",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-storage-transfer/": {
+    "value": "1.20.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sphinxcontrib-qthelp/": {
+    "value": "2.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aliyun-python-sdk-core/": {
+    "value": "2.16.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ty/": {
+    "value": "0.0.37",
+    "date": "2026-05-16",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/datadog-api-client/": {
+    "value": "2.55.0",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sphinxcontrib-devhelp/": {
+    "value": "2.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sphinxcontrib-htmlhelp/": {
+    "value": "2.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sphinxcontrib-applehelp/": {
+    "value": "2.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/flask-login/": {
+    "value": "0.6.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pypdf2/": {
+    "value": "3.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-nvtx-cu12/": {
+    "value": "12.9.79",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/curl-cffi/": {
+    "value": "0.15.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/inflect/": {
+    "value": "7.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/leather/": {
+    "value": "0.4.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sentence-transformers/": {
+    "value": "5.5.0",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/openai-agents/": {
+    "value": "0.17.2",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sphinxcontrib-jsmath/": {
+    "value": "1.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/dbt-extractor/": {
+    "value": "0.6.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/djangorestframework/": {
+    "value": "3.17.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/opensearch-protobufs/": {
+    "value": "1.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/llama-parse/": {
+    "value": "0.6.94",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pydeck/": {
+    "value": "0.9.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/requests-mock/": {
+    "value": "1.12.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyphen/": {
+    "value": "0.17.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/av/": {
+    "value": "17.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pymdown-extensions/": {
+    "value": "10.21.3",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/accelerate/": {
+    "value": "1.13.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/checkov/": {
+    "value": "3.2.529",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/wandb/": {
+    "value": "0.27.0",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cached-property/": {
+    "value": "2.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/logfire/": {
+    "value": "4.33.0",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/clickhouse-connect/": {
+    "value": "1.0.0",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/thinc/": {
+    "value": "9.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aws-requests-auth/": {
+    "value": "0.4.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/click-option-group/": {
+    "value": "0.5.9",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/grpc-interceptor/": {
+    "value": "0.15.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/azure-batch/": {
+    "value": "15.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/eval-type-backport/": {
+    "value": "0.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/types-tabulate/": {
+    "value": "0.10.0.20260508",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyotp/": {
+    "value": "2.9.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ua-parser/": {
+    "value": "1.0.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/bidict/": {
+    "value": "0.23.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tifffile/": {
+    "value": "2026.5.15",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/apache-airflow-providers-http/": {
+    "value": "6.0.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/lupa/": {
+    "value": "2.8",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/azure-cosmos/": {
+    "value": "4.15.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytest-env/": {
+    "value": "1.6.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/einops/": {
+    "value": "0.8.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/realtime/": {
+    "value": "2.30.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyproj/": {
+    "value": "3.7.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/langchain-google-vertexai/": {
+    "value": "3.2.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/openxlab/": {
+    "value": "0.1.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pycares/": {
+    "value": "5.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/userpath/": {
+    "value": "1.9.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pipenv/": {
+    "value": "2026.6.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/gcloud-aio-bigquery/": {
+    "value": "7.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mysqlclient/": {
+    "value": "2.2.8",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/factory-boy/": {
+    "value": "3.3.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/weasyprint/": {
+    "value": "68.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/azure-datalake-store/": {
+    "value": "1.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cssselect/": {
+    "value": "1.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/progressbar2/": {
+    "value": "4.5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/bs4/": {
+    "value": "0.0.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sagemaker/": {
+    "value": "3.11.0",
+    "date": "2026-05-13",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/opt-einsum/": {
+    "value": "3.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aiodns/": {
+    "value": "4.0.3",
+    "date": "2026-05-16",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-dataplex/": {
+    "value": "2.19.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytzdata/": {
+    "value": "2020.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tensorflow/": {
+    "value": "2.21.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pydocket/": {
+    "value": "0.20.2",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/llama-cloud-services/": {
+    "value": "0.6.94",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/deltalake/": {
+    "value": "1.5.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nexus-rpc/": {
+    "value": "1.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/kubernetes-asyncio/": {
+    "value": "35.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/kafka-python/": {
+    "value": "2.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pathlib-abc/": {
+    "value": "0.5.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-utils/": {
+    "value": "3.9.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/requests-cache/": {
+    "value": "1.3.2",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cron-descriptor/": {
+    "value": "2.0.8",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/astronomer-cosmos/": {
+    "value": "1.14.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/flask-limiter/": {
+    "value": "4.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/hiredis/": {
+    "value": "3.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/oracledb/": {
+    "value": "4.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/strenum/": {
+    "value": "0.4.15",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/fastapi-cloud-cli/": {
+    "value": "0.17.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jira/": {
+    "value": "3.10.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/preshed/": {
+    "value": "4.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytest-html/": {
+    "value": "4.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/spacy/": {
+    "value": "3.8.14",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pathvalidate/": {
+    "value": "3.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/apache-airflow-providers-databricks/": {
+    "value": "7.14.0",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/daff/": {
+    "value": "1.4.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-engineio/": {
+    "value": "4.13.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/simple-websocket/": {
+    "value": "1.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pkgutil-resolve-name/": {
+    "value": "1.3.10",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/apache-airflow-providers-common-compat/": {
+    "value": "1.14.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/texttable/": {
+    "value": "1.7.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-socketio/": {
+    "value": "5.16.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/apache-airflow-providers-cncf-kubernetes/": {
+    "value": "10.17.0",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pydub/": {
+    "value": "0.25.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/bitarray/": {
+    "value": "3.8.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/qdrant-client/": {
+    "value": "1.18.0",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/srsly/": {
+    "value": "3.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/opencensus/": {
+    "value": "0.11.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aws-lambda-powertools/": {
+    "value": "3.29.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/bandit/": {
+    "value": "1.9.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jwcrypto/": {
+    "value": "1.5.7",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jpype1/": {
+    "value": "1.7.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/murmurhash/": {
+    "value": "1.0.15",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/blessed/": {
+    "value": "1.39.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/opencensus-context/": {
+    "value": "0.1.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/nvidia-cusparselt-cu12/": {
+    "value": "0.8.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/argparse/": {
+    "value": "1.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pymupdf4llm/": {
+    "value": "1.27.2.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/levenshtein/": {
+    "value": "0.27.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/aws-xray-sdk/": {
+    "value": "2.15.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/configargparse/": {
+    "value": "1.7.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/py-spy/": {
+    "value": "0.4.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/rich-argparse/": {
+    "value": "1.8.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tensorboard-data-server/": {
+    "value": "0.7.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/keras/": {
+    "value": "3.14.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/oscrypto/": {
+    "value": "1.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/blis/": {
+    "value": "1.3.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pybase64/": {
+    "value": "1.4.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/maxminddb/": {
+    "value": "3.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/azure-mgmt-resource/": {
+    "value": "25.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cymem/": {
+    "value": "2.0.13",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/gql/": {
+    "value": "4.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/databricks-labs-blueprint/": {
+    "value": "0.12.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/cloudpathlib/": {
+    "value": "0.24.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/catalogue/": {
+    "value": "2.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/prek/": {
+    "value": "0.4.0",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pathos/": {
+    "value": "0.3.5",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pgvector/": {
+    "value": "0.4.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/xarray/": {
+    "value": "2026.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/gast/": {
+    "value": "0.7.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/testcontainers/": {
+    "value": "4.14.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/snowplow-tracker/": {
+    "value": "1.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/psycopg-pool/": {
+    "value": "3.3.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/apache-airflow/": {
+    "value": "3.2.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/twilio/": {
+    "value": "9.10.9",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ua-parser-builtins/": {
+    "value": "202605",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/qrcode/": {
+    "value": "8.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-gitlab/": {
+    "value": "8.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/zopfli/": {
+    "value": "0.4.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/openlineage-python/": {
+    "value": "1.47.1",
+    "date": "2026-05-12",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/license-expression/": {
+    "value": "30.4.4",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/apache-airflow-providers-snowflake/": {
+    "value": "6.12.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/boolean-py/": {
+    "value": "5.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/flask-wtf/": {
+    "value": "1.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/arxiv/": {
+    "value": "4.0.0",
+    "date": "2026-05-17",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/azure-servicebus/": {
+    "value": "7.14.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tritonclient/": {
+    "value": "2.68.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/langfuse/": {
+    "value": "4.6.1",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jsonpickle/": {
+    "value": "4.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/rignore/": {
+    "value": "0.7.6",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pymupdf-layout/": {
+    "value": "1.27.2.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/supabase/": {
+    "value": "2.30.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jax/": {
+    "value": "0.10.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/mypy-protobuf/": {
+    "value": "5.1.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/wasabi/": {
+    "value": "1.1.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/tree-sitter-javascript/": {
+    "value": "0.25.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pydantic-evals/": {
+    "value": "1.97.0",
+    "date": "2026-05-15",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/questionary/": {
+    "value": "2.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pox/": {
+    "value": "0.3.7",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/ppft/": {
+    "value": "1.7.8",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/watchtower/": {
+    "value": "3.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/gremlinpython/": {
+    "value": "3.8.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/statsd/": {
+    "value": "4.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/confection/": {
+    "value": "1.3.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/smdebug-rulesconfig/": {
+    "value": "1.0.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/json-repair/": {
+    "value": "0.59.10",
+    "date": "2026-05-14",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/sqlalchemy-spanner/": {
+    "value": "1.18.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/yfinance/": {
+    "value": "1.3.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/spacy-legacy/": {
+    "value": "3.0.12",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/python-daemon/": {
+    "value": "3.1.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/partd/": {
+    "value": "1.4.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/parameterized/": {
+    "value": "0.9.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/google-cloud-build/": {
+    "value": "3.36.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/parse/": {
+    "value": "1.22.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/looker-sdk/": {
+    "value": "26.8.0",
+    "date": "2026-05-11",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/locket/": {
+    "value": "1.0.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/types-cffi/": {
+    "value": "2.0.0.20260508",
+    "date": "2026-05-08",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pytest-django/": {
+    "value": "4.12.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/makefun/": {
+    "value": "1.16.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/django-cors-headers/": {
+    "value": "4.9.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/emoji/": {
+    "value": "2.15.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pyspnego/": {
+    "value": "0.12.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/geopandas/": {
+    "value": "1.1.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pydyf/": {
+    "value": "0.12.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/fasteners/": {
+    "value": "0.20",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jupyter-console/": {
+    "value": "6.6.3",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/jupyter/": {
+    "value": "1.1.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/geoip2/": {
+    "value": "5.2.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/fastapi-mcp/": {
+    "value": "0.4.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/wtforms/": {
+    "value": "3.2.2",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/pybreaker/": {
+    "value": "1.4.1",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/storage3/": {
+    "value": "2.30.0",
+    "date": "2026-05-07",
+    "conf": 0.99
+  },
+  "https://pypi.org/project/types-paramiko/": {
+    "value": "4.0.0.20260508",
+    "date": "2026-05-08",
+    "conf": 0.99
+  }
+}

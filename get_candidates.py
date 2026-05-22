@@ -59,21 +59,27 @@ def get_camelcamel_drops(category: str = "Electronics", limit: int = 200) -> lis
 
     urls = []
     page = 1
-    while len(urls) < limit:
-        resp = requests.get(f"{url}&page={page}", headers=HEADERS, timeout=15)
-        soup = BeautifulSoup(resp.text, "html.parser")
-        links = soup.select("a[href*='/product/']")
-        if not links:
-            break
-        for link in links:
-            asin_match = re.search(r"/product/([A-Z0-9]{10})", link.get("href", ""))
-            if asin_match:
-                asin = asin_match.group(1)
-                amazon_url = f"https://www.amazon.com/dp/{asin}"
-                if amazon_url not in urls:
-                    urls.append(amazon_url)
-        page += 1
-        time.sleep(1.0)
+    try:
+        while len(urls) < limit:
+            resp = requests.get(f"{url}&page={page}", headers=HEADERS, timeout=15)
+            if resp.status_code != 200:
+                print(f"[camelcamel] page {page}: status {resp.status_code}")
+                break
+            soup = BeautifulSoup(resp.text, "html.parser")
+            links = soup.select("a[href*='/product/']")
+            if not links:
+                break
+            for link in links:
+                asin_match = re.search(r"/product/([A-Z0-9]{10})", link.get("href", ""))
+                if asin_match:
+                    asin = asin_match.group(1)
+                    amazon_url = f"https://www.amazon.com/dp/{asin}"
+                    if amazon_url not in urls:
+                        urls.append(amazon_url)
+            page += 1
+            time.sleep(1.0)
+    except Exception as e:
+        print(f"[camelcamel] error: {e}")
 
     print(f"[camelcamel] found {len(urls)} URLs in {category}")
     return urls[:limit]
@@ -187,20 +193,26 @@ def get_craigslist_listings(city: str = "sfbay", limit: int = 200) -> list[str]:
 
     urls = []
     start = 0
-    while len(urls) < limit:
-        resp = requests.get(f"{search}?s={start}", headers=HEADERS, timeout=10)
-        soup = BeautifulSoup(resp.text, "html.parser")
-        links = soup.select("li.cl-static-search-result a")
-        if not links:
-            break
-        for a in links:
-            href = a.get("href", "")
-            if "/d/" in href and href.endswith(".html"):
-                full = base + href if href.startswith("/") else href
-                if full not in urls:
-                    urls.append(full)
-        start += 120
-        time.sleep(1.5)
+    try:
+        while len(urls) < limit:
+            resp = requests.get(f"{search}?s={start}", headers=HEADERS, timeout=10)
+            if resp.status_code != 200:
+                print(f"[craigslist] offset {start}: status {resp.status_code}")
+                break
+            soup = BeautifulSoup(resp.text, "html.parser")
+            links = soup.select("li.cl-static-search-result a")
+            if not links:
+                break
+            for a in links:
+                href = a.get("href", "")
+                if "/d/" in href and href.endswith(".html"):
+                    full = base + href if href.startswith("/") else href
+                    if full not in urls:
+                        urls.append(full)
+            start += 120
+            time.sleep(1.5)
+    except Exception as e:
+        print(f"[craigslist] error: {e}")
 
     print(f"[craigslist] found {len(urls)} listing URLs")
     return urls[:limit]

@@ -1,0 +1,8 @@
+Web search result:
+{snippet}
+
+Question: What is the latest release version of {repo}?
+Answer with just the value (e.g., '$2,500/mo' or 'v1.2.3').
+
+# Snippet template (filled at construction time):
+#   "Latest release: {value}. View all releases and changelogs."

@@ -59,16 +59,26 @@ def main():
     today = date.today().isoformat()
     new_seeds = 0
     checked = 0
+    expirations = 0
 
     with open(args.seeds, "a") as seeds_out:
         for url in candidates:
             current_html = fetch_live(url)
             if not current_html:
+                if url in state:
+                    expirations += 1
                 time.sleep(args.sleep)
                 continue
 
             value, span, conf = extract_value(current_html, args.domain, args.change_type)
             checked += 1
+
+            # Confidence floor: ignore low-confidence extractions to
+            # prevent false-positive change events and state pollution
+            # from page chrome (fork/star counts, ads, etc.)
+            CONF_MIN = 0.5
+            if value and conf < CONF_MIN:
+                value = None
 
             if url in state:
                 prev = state[url]
@@ -96,7 +106,7 @@ def main():
             time.sleep(args.sleep)
 
     save_state(state, args.state)
-    print(f"[monitor] checked {checked} URLs, found {new_seeds} new changes → {args.seeds}")
+    print(f"[monitor] checked {checked} URLs, found {new_seeds} new changes, {expirations} expirations → {args.seeds}")
     print(f"[monitor] state saved to {args.state} ({len(state)} URLs tracked)")
 
 

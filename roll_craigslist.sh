@@ -4,9 +4,10 @@
 # 2. Baseline new URLs into the apartment state
 # 3. Run the monitor on yesterday's batch
 set -e
-cd /Users/kelu/Documents/GitHub/freshstate
+# Run from the freshstate repo root.
+cd "$(dirname "$0")"
 
-PYTHON=/Users/kelu/anaconda3/bin/python3
+PYTHON=${PYTHON:-python3}
 DATE=$(date +%Y%m%d)
 CANDIDATES=candidates/craigslist_${DATE}.txt
 LOG=logs/roll_craigslist_${DATE}.log

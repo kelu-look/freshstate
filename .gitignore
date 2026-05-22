@@ -1,38 +1,81 @@
-# Secrets
+# Secrets and local config
 .env
 
-# Paper (not published)
-paper/
-
-# State files (large, contain scraped data)
-monitor_state_*.json
-
-# Logs
-logs/
-
-# Candidate URL lists (regenerated daily)
-candidates/
-
-# Experiment results (contain API responses)
-results/
+# Editor / OS noise
+.DS_Store
+Thumbs.db
+*.swp
 
 # Python
 __pycache__/
 *.pyc
 
-# Data
-data/
+# Backups and scratch
+*.bak
+*.tmp
+*.zip
 
-# LaTeX build artifacts
-paper/*.aux
-paper/*.bbl
-paper/*.blg
-paper/*.log
-paper/*.out
-paper/*.pdf
-paper/*.synctex.gz
-paper/*.fdb_latexmk
-paper/*.fls
+# LaTeX build artifacts (keep .tex and .pdf)
+*.aux
+*.bbl
+*.blg
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.toc
+texput.log
+paper-*/*.aux
+paper-*/*.bbl
+paper-*/*.blg
+paper-*/*.log
+paper-*/*.out
+paper-*/*.synctex.gz
 
-# OS
-.DS_Store
+# Feasibility branch (superseded; canonical PyPI files live at top level)
+pypi_branch/
+
+# Pre-PyPI / two-domain backups (superseded by 3-domain canonical files)
+*_2dom.json
+*_2dom.jsonl
+
+# Legacy scratch results not documented in paper/README/schema
+results/verifier_gpt4o_mini.jsonl
+results/verifier_dryrun.jsonl
+results/test_gpt4o.jsonl
+results/experiment.jsonl
+results/claude_prompts.jsonl
+# Non-final snippet-swap outputs (kept canonical: *_final.jsonl only)
+results/experiment_gpt4o.jsonl
+results/experiment_gpt4o_mini.jsonl
+results/experiment_claude.jsonl
+
+# Old per-day candidate scrapes (not part of the released artifact)
+candidates/craigslist_2026*.txt
+candidates/all_apartment_urls.txt
+# Pre-PyPI candidate lists (not in the released artifact; the released pool is pypi_top_1000.txt)
+candidates/apartment_stable.txt
+candidates/apartment_stable_v2.txt
+candidates/product_stable.txt
+candidates/product_stable_v2.txt
+candidates/software_stable.txt
+
+# Manuscript source — kept LOCAL only; the paper PDF is submitted via EasyChair,
+# and the public artifact (code + data + docs) lives in this repo without manuscript source.
+paper-sigir/
+paper-cikm/
+paper-cikm-4p/
+
+# Internal validation protocol — kept LOCAL; the released artifact documents
+# validation via README, data/schema.md, and the paper's §Validation.
+VALIDATION_GUIDE.md
+
+# Old paper directory (pre-CIKM); CIKM versions live in paper-cikm/, paper-cikm-4p/
+paper/
+
+# Old monitor states from pre-cleanup era
+monitor_state_apartment.json
+monitor_state_product.json
+
+# Old per-day collection logs
+logs/

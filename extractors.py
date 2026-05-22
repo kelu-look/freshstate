@@ -197,7 +197,13 @@ def build_snippet(html: str, domain: str) -> str:
 #  Targets the /releases listing page, extracts the latest tag name.
 # ─────────────────────────────────────────────
 
-GITHUB_TAG_RE = re.compile(r"v?\d+\.\d+(?:\.\d+)*(?:[-_.]\w+)?", re.IGNORECASE)
+# Tighter than VERSION_RE: requires either a 'v' prefix OR at least
+# major.minor.patch (3 components). Prevents false positives from
+# Fork/Star counts like "32.4k" on GitHub release pages.
+GITHUB_TAG_RE = re.compile(
+    r"(?<![\w.])(?:v\d+(?:\.\d+){1,}|\d+\.\d+\.\d+)(?:[-_.][\w.]+)?(?![\w.])",
+    re.IGNORECASE,
+)
 
 def extract_github_release(html: str) -> tuple[Optional[str], Optional[str], float]:
     """

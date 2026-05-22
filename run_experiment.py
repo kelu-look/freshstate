@@ -261,9 +261,16 @@ def score_answer(answer: Optional[str], answer_current: str, answer_stale: str) 
     current_norm = normalize(answer_current)
     stale_norm = normalize(answer_stale)
 
-    if current_norm in ans_norm or ans_norm in current_norm:
+    # Exact match first (avoids "1.2" matching "1.20")
+    if current_norm == ans_norm:
         return {"outcome": "current", "is_current": 1, "is_stale": 0, "is_abstain": 0}
-    if stale_norm in ans_norm or ans_norm in stale_norm:
+    if stale_norm == ans_norm:
+        return {"outcome": "stale", "is_current": 0, "is_stale": 1, "is_abstain": 0}
+
+    # Substring match as fallback (LLM may include extra text around the value)
+    if current_norm in ans_norm:
+        return {"outcome": "current", "is_current": 1, "is_stale": 0, "is_abstain": 0}
+    if stale_norm in ans_norm:
         return {"outcome": "stale", "is_current": 0, "is_stale": 1, "is_abstain": 0}
 
     # Try numeric comparison for prices
