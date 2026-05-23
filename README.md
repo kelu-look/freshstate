@@ -176,6 +176,16 @@ Expected results match the EXPECTED OUTPUTS block printed by
 `reproduce_tables.py`; reviewer-facing values are also listed in the
 paper's tables.
 
+**LLM verifier evaluation policy.** The verifier emits
+`YES` / `NO` / `UNSURE`. For binary Task 1 metrics (the LLM verifier
+row of the baselines table and the per-domain breakdown), `UNSURE`
+is mapped to **fresh** (not flagged); firm-answer analysis
+(binomial significance test) excludes `UNSURE` predictions. Both
+`run_baselines.py` and `reproduce_tables.py` use this canonical
+mapping; the cached predictions in `results/verifier_task1.jsonl`
+retain the raw three-way verdict so alternative aggregations remain
+possible.
+
 ## Pipeline Overview
 
 ```

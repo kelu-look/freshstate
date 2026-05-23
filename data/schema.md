@@ -156,6 +156,21 @@ age threshold achieves 100% balanced accuracy. The contrast with the
 age-matched release (45.8%) is the empirical evidence that the
 age-matching design is necessary, not merely cosmetic.
 
+## LLM verifier evaluation policy
+
+The LLM verifier emits three-way verdicts: `YES` / `NO` / `UNSURE`.
+For binary Task 1 metrics (paper Tables 3 and 4), **`UNSURE` is
+mapped to `fresh` (not flagged)**, reflecting the operational
+behavior of a verifier that declines to reject retrieved evidence.
+Per-class recalls and balanced accuracy in Table 3 and the
+`llm_verifier` row of Table 4 use this canonical mapping. Firm-answer
+analysis (the binomial significance test reported in §6) excludes
+`UNSURE` predictions. Both `run_baselines.py` and
+`reproduce_tables.py` apply this convention consistently. The cached
+predictions in `results/verifier_task1.jsonl` retain the raw
+three-way `verdict` field so alternative aggregations remain
+possible.
+
 ## Cleanup pass
 
 The original monitor admitted low-confidence (`c = 0.4`) extractions for 38
