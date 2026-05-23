@@ -90,7 +90,9 @@ def main():
     p.add_argument("--end_date", default=None,
                    help="YYYY-MM-DD final day of the window (default: today).")
     p.add_argument("--sleep", type=float, default=0.15,
-                   help="Sleep between PyPI requests (PyPI rate-limits at 30 r/s).")
+                   help="Sleep between PyPI requests; PyPI documents no "
+                        "edge rate-limit but recommends avoiding bursts and "
+                        "sending an identifying User-Agent.")
     p.add_argument("--seeds_out", default="seeds/pypi_monitored.jsonl")
     p.add_argument("--state_out", default="monitor_state_pypi.json")
     p.add_argument("--fail_out",  default="data/pypi_extraction_failures.jsonl")
